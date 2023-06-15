@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 * {
   font-family: 'Poppins', sans-serif;
@@ -8,7 +8,7 @@
 }
 
 body {
-  background: lightblue;
+  background: #8758ff;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -22,10 +22,6 @@ h1 {
   color: #fff;
   margin-bottom: 0.5rem;
   font-size: 1.75rem;
-}
-
-h3 {
-  color: #fff;
 }
 
 .TodoWrapper {
@@ -60,32 +56,10 @@ h3 {
   border: none;
   padding: 0.55rem;
   cursor: pointer;
+  
 }
 
-.logout-btn {
-  background: #8758ff;
-  color: #fff;
-  border: none;
-  padding: 0.55rem;
-  cursor: pointer;
-  border-radius: 5px;
-}
 
-.navbar{
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background:#1A1A40;
-  width: 100vw;
-  height: 60px;
-  padding: 0 5%;
-}
-.profile {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  color: #fff;
-}
 
 .Todo {
   display: flex;
@@ -99,13 +73,6 @@ h3 {
   cursor: pointer;
 }
 
-.SubTask{
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-}
-
 .fa-trash {
   margin-left: 0.75rem;
 }
@@ -114,4 +81,4 @@ h3 {
   color: #c5aeff;
   text-decoration: line-through;
 }
- 
+  */
