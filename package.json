@@ -1,6 +1,5 @@
 {
   "name": "dashboard-todo",
-  "homepage": "https://SanjayT08.github.io/todo-data",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
